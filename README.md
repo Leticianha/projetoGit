@@ -1,3 +1,3 @@
-# ProjetoGit
+# projetoGit
  
- -Projeto do git
+ Testando o funcionamento do GitHub
